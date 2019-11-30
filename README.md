@@ -26,10 +26,11 @@ This repo contains the code for the paper
 You are encouraged to cite following paper for acedamic research:
 
 ```bibtex
-@article{liu2019minimax,
-  title={Minimax Rates of Estimating Approximate Differential Privacy},
+@inproceedings{liu2019minimax,
+  title={Minimax Optimal Estimation of Approximate Differential Privacy on Neighboring Databases},
   author={Liu, Xiyang and Oh, Sewoong},
-  journal={arXiv preprint arXiv:1905.10335},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={2414--2425},
   year={2019}
 }
 ```
